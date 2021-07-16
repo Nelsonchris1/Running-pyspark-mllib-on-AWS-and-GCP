@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.evaluation.RegressionEvaluator","timestamp":1611003237719,"sparkVersion":"2.4.5","uid":"RegressionEvaluator_1cb57c49e5e6","paramMap":{"metricName":"rmse","labelCol":"Time from Pickup to Arrival","predictionCol":"prediction"},"defaultParamMap":{"metricName":"rmse","labelCol":"label","predictionCol":"prediction"}}
